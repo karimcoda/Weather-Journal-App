@@ -9,15 +9,15 @@ In cooperation with **UDACITY AND FWD(Egypt Future Work is Digital Scholarship)*
 
 ## steps
 
-- **set up project environment **Node****
+### set up project environment **Node**
 
-- Server file
-Get - Post routsd
+### Server file
+- Get/Post routes
 
-- javascriopt file 
-Acquired API credentials from OpenWeatherMap website.
-Created fetch func to fetch data from OpenWeatherMap website.
-Set up a function that updated UI dynamically.
+## javascriopt file 
+- Acquired API credentials from OpenWeatherMap website.
+- Created fetch func to fetch data from OpenWeatherMap website.
+- Set up a function that updated UI dynamically.
 
 ## App
 ![This is an image](https://github.com/karimcoda/Weather-Journal-App/blob/main/Weather-Journal-App.png)
