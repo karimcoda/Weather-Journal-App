@@ -1,5 +1,6 @@
 # Weather-Journal-App
-In cooperation with **UDACITY AND FWD(Egypt Future Work is Digital Scholarship)**.
+This project is an asynchronous web app that uses Web API and user data to dynamically update the UI.
+
 ## Tools
 - HTML
 - CSS
@@ -23,3 +24,7 @@ In cooperation with **UDACITY AND FWD(Egypt Future Work is Digital Scholarship)*
 ![This is an image](https://github.com/karimcoda/Weather-Journal-App/blob/main/Weather-Journal-App.png)
 
 ![This is an image](https://github.com/karimcoda/Weather-Journal-App/blob/main/Weather-Journal-App%20(1).png)
+
+
+In cooperation with **UDACITY AND FWD(Egypt Future Work is Digital Scholarship)**.
+designed by **Karim Mohamed** 2022
