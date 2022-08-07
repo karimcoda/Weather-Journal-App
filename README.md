@@ -27,4 +27,4 @@ This project is an asynchronous web app that uses Web API and user data to dynam
 
 
 In cooperation with **UDACITY AND FWD(Egypt Future Work is Digital Scholarship)**.
-designed by **Karim Mohamed** 2022
+Designed by **Karim Mohamed** 2022.
